@@ -22,7 +22,10 @@ export class Info {
   name: string = 'Henry Díaz Gutiérrez'
   age: number = 38
   nationality: string[] = ['Guatemalan']
-  languages: Record<string, string>[] = [{ 'Spanish': 'native' }, { 'English': 'Reading' }, { 'Brazilian Portuguese': ['Reading', 'Listened'] }]
+  languages: Record<string, string>[] = [
+                             { 'Spanish': 'native' }, 
+                             { 'English': 'Reading' }, 
+                             { 'Brazilian Portuguese': ['Reading', 'Listened'] }]
   school: string = 'Rafael Arévalo Martinez'
   occupation: string = 'Web Developer and Designer, Student'
   freetime: string[] = ['Learning', 'Reading', 'Share the acquired knowledge and make the life of the systems students easier']
