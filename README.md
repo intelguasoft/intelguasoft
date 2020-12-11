@@ -50,7 +50,7 @@ Hi! My name is Henry Díaz. I am a Web Developer from Izabal, Guatemala, and I'm
 [![Shooting](https://img.shields.io/badge/Applied-shooting-green?style=for-the-badge)]()
 
 ### I’m currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=intelguasoft&repo=camaleon.gt)](https://github.com/corporation-camaleon/camaleon.gt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=corporation-camaleon&repo=camaleon.gt)](https://github.com/corporation-camaleon/camaleon.gt)
 
 - 🔭 ... and others usefulness open-source projects.
 
