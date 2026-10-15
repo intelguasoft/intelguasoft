@@ -1,56 +1,143 @@
-# Soy Henry Leonardo Díaz Gutiérrez
-## Un vistazo sobre mí
+<div align="center">
 
-Hola, mi nombre es Henry Leonardo Díaz Gutiérrez, soy del municipio de Morales, departamento de Izabal, ciudadano Guatemalteco, apasionado por el desarrollo de software en la mayoría de sus ambientes, usando los mejores stack tecnologicos, con una amplia experiencia de 16 años en el mercado del desarrollo de software, comenzando mis primeros acercamientos al codigo aya por el año 1997 en donde comenze a ver [Visual Basic 4](https://winworldpc.com/product/microsoft-visual-bas/40) haciendo una que otra maniobra con formularios, botones y comenzando a conocer la tan bella, programación orientada a eventos. Luego de sentirme familiarizado con dicho entorno comenze mi travesia por el mundo de acceso a datos, usando como primer repositorito de datos, [MS Access 1.0](https://winworldpc.com/product/microsoft-access/10) y manejo de reportes usando [Crystal Report 1](https://winworldpc.com/product/crystal-reports/1x) en entornos [Windows 3.0](https://winworldpc.com/product/windows-3/31), algo que en ese entonces para mi era algo maravilloso, porque habia comenzado estudiando informatica básica usando el [MS-DOS](https://winworldpc.com/product/ms-dos/1x) con sistemas ofimaticos como [Professional Write](https://winworldpc.com/product/professional-write/2x) y [Quatro Pro](https://winworldpc.com/product/quattro-pro/10), asi como tambien el entorno de [Linux Mandrake](https://winworldpc.com/product/mandrake-linux/65), que en su momento eran la comidilla del día, algo maraviso a mi parecer comparando la informatica moderna, que ha creado una generación inutil y ociosa.
+# 👋 Hola, soy Henry Leonardo Díaz Gutiérrez
 
-En 1996, tuve el primer acercamiento con la que sería miprimera casa de estudios informaticos que me abrio la ventana al mundo tecnológico, siendo esta la **"Academia de Computación PORTEÑA"**, dirigida por los instructores **Carlos Cuc** y **Luis Portela**, para mi en su momento, los mejores en el tema informatico.
+### Desarrollador Full Stack · Arquitecto de Bases de Datos · Analista de Sistemas
 
-Luego de ahi, fue donde esa curiosidad por lo desconocido de dicho mundo se apodero de mí y comenzo la travesía que me ha traido hací lo que soy ahora, profesionalmente en el ambito del desarrollo.
+**PHP · MySQL · JavaScript · Vue · React** — construyendo software desde 1997 🇬🇹
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=intelguasoft&column=8&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![Website](https://img.shields.io/badge/realsoft.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://realsoft.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intelguasoft/)
+[![Email](https://img.shields.io/badge/hdiaz@realsoft.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdiaz@realsoft.dev)
+[![X](https://img.shields.io/badge/@intelguasoft-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Intelguasoft)
 
-![@intelguasoft github stats](https://github-readme-stats.vercel.app/api?username=intelguasoft&show_icons=true&hide=prs,contribs&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intelguasoft&layout=compact&hide=kotlin)](https://github.com/intelguasoft?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=intelguasoft&style=flat-square&color=blue&label=Visitas)
+![Ubicación](https://img.shields.io/badge/📍_Morales,_Izabal,_Guatemala-informational?style=flat-square)
+![Disponible](https://img.shields.io/badge/Abierto_a-proyectos_freelance_y_remotos-success?style=flat-square)
 
-### Resumen
-- [x] Nacimiento: **21.08.1982**
-- [x] Dirección: **Morales, Izabal, Guatemala**
-- [x] Pasatiempos: **Cocinar, Disfrutar una buena comida, Hacer aseo en casa**
-- [ ] Habilidades blandas: **Diseño de bases de datos, levantamiento de requerimiento, documentación de procesos, etc.**
-- [x] Centro de estudios: **Instituto Rafael Arevalo Martinez - Plan fin de semana**
-- [x] Grado académico: **Perito Contador con Orientación en Computación**
-- [x] Website: [realsoft.dev](https://realsoft.dev)
-- [x] Email: [hdiaz@realsoft.dev](mailto:hdiaz@realsoft.dev)
-- [x] Idiomas: **Esañol** (nativo), English (Lectura técnica)
+</div>
 
-### My programming languages skills
+---
 
-- [![CSS](https://img.shields.io/badge/CSS-10%20years-brightgreen?style=for-the-badge)]()
-- [![CSS](https://img.shields.io/badge/LESS-8%20years-brightgreen?style=for-the-badge)]()
-- [![CSS](https://img.shields.io/badge/JavaScript-10%20years-brightgreen?style=for-the-badge)]()
-- [![CSS](https://img.shields.io/badge/HTML-10%20years-brightgreen?style=for-the-badge)]()
-- [![CSS](https://img.shields.io/badge/PHP-14%20years-brightgreen?style=for-the-badge)]()
-- [![CSS](https://img.shields.io/badge/MySQL-14%20years-brightgreen?style=for-the-badge)]()
-- [![CSS](https://img.shields.io/badge/SQL-14%20years-brightgreen?style=for-the-badge)]()
+## 🧭 Sobre mí
 
-### Knowledge of frameworks
+Soy un desarrollador de software guatemalteco, originario de **Morales, Izabal**, con una trayectoria que comenzó mucho antes de que "la nube" existiera. Escribí mis primeras líneas de código en **1997** con **Visual Basic 4**, descubriendo la programación orientada a eventos, y di mis primeros pasos en el acceso a datos con **MS Access** y reportes en **Crystal Reports** sobre Windows 3.x.
 
-- [![Metro4](https://img.shields.io/badge/Metro%204-8%20years-brightgreen?style=for-the-badge)]()
-- [![jQuery](https://img.shields.io/badge/jQuery-10%20years-brightgreen?style=for-the-badge)]()
-- [![React](https://img.shields.io/badge/React-4%20years-yellow?style=for-the-badge)]()
-- [![Vue](https://img.shields.io/badge/Vue-5%20years-red?style=for-the-badge)]()
+Esa base —forjada entre MS-DOS, Linux Mandrake y herramientas ofimáticas de la época— me dio algo que hoy valoro mucho: **entender cómo funcionan las cosas por dentro**. Desde entonces he evolucionado con la industria hasta trabajar con stacks web modernos, sin perder el enfoque en lo que realmente sostiene un sistema: **datos bien diseñados, requerimientos claros y procesos documentados**.
 
-### Now studying
+**¿Qué aporto a un equipo o proyecto?**
 
-- [![Dart](https://img.shields.io/badge/Dart-Begin-blueviolet?style=for-the-badge)]()
-- [![Flutter](https://img.shields.io/badge/Flutter-Begin-blueviolet?style=for-the-badge)]()
-- [![Flutter](https://img.shields.io/badge/English-Pre%20Intermediate-blueviolet?style=for-the-badge)]()
+- 🗄️ **Diseño y modelado de bases de datos** relacionales robustas y escalables.
+- 🧩 **Levantamiento y análisis de requerimientos** — traduzco necesidades de negocio en soluciones técnicas.
+- 📝 **Documentación de procesos** clara y mantenible.
+- 🌐 **Desarrollo web full stack** con PHP, MySQL y frameworks JavaScript modernos.
+- 💼 **Visión de negocio**, gracias a mi formación como Perito Contador con Orientación en Computación.
 
-If you like my projects, you can contact me at: 
-- Phone: +502 5931 4660
-- Email: hdiaz@realsoft.dev
-- Linkdin: [in/intelguasoft](https://www.linkedin.com/in/intelguasoft/)
-- Skype: N/A
-- Tweeter: [@intelguasoft](https://twitter.com/Intelguasoft)
+> 🎓 Mis inicios formales fueron en la **Academia de Computación PORTEÑA**, de la mano de los instructores **Carlos Cuc** y **Luis Portela**, quienes me abrieron la puerta al mundo tecnológico.
 
+---
 
+## 🛠️ Stack tecnológico
+
+### Lenguajes
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LESS](https://img.shields.io/badge/LESS-1D365D?style=for-the-badge&logo=less&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Frameworks y librerías
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Metro UI](https://img.shields.io/badge/Metro_4-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+
+### Bases de datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS Access](https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+
+### Herramientas y entornos
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌱 Aprendiendo actualmente
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![English](https://img.shields.io/badge/English-Pre--Intermediate-blueviolet?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+---
+
+## 📊 Años de experiencia
+
+| Tecnología | Experiencia | Nivel |
+|---|---|---|
+| PHP | 14+ años | ![Experto](https://img.shields.io/badge/Experto-brightgreen?style=flat-square) |
+| MySQL / SQL | 14+ años | ![Experto](https://img.shields.io/badge/Experto-brightgreen?style=flat-square) |
+| JavaScript | 10+ años | ![Avanzado](https://img.shields.io/badge/Avanzado-brightgreen?style=flat-square) |
+| HTML / CSS | 10+ años | ![Avanzado](https://img.shields.io/badge/Avanzado-brightgreen?style=flat-square) |
+| jQuery | 10+ años | ![Avanzado](https://img.shields.io/badge/Avanzado-brightgreen?style=flat-square) |
+| LESS | 8+ años | ![Avanzado](https://img.shields.io/badge/Avanzado-brightgreen?style=flat-square) |
+| Metro 4 | 8+ años | ![Avanzado](https://img.shields.io/badge/Avanzado-brightgreen?style=flat-square) |
+| Vue | 5+ años | ![Intermedio](https://img.shields.io/badge/Intermedio-yellow?style=flat-square) |
+| React | 4+ años | ![Intermedio](https://img.shields.io/badge/Intermedio-yellow?style=flat-square) |
+| Dart / Flutter | En curso | ![Aprendiendo](https://img.shields.io/badge/Aprendiendo-blueviolet?style=flat-square) |
+
+---
+
+## 📈 Estadísticas en GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=intelguasoft&show_icons=true&hide=prs,contribs&count_private=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelguasoft&layout=compact&hide=kotlin&theme=tokyonight&hide_border=true" alt="Lenguajes principales" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=intelguasoft&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+<br/>
+
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=intelguasoft&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎓 Formación
+
+- **Perito Contador con Orientación en Computación** — Instituto Rafael Arévalo Martínez (Plan fin de semana)
+- **Informática y programación** — Academia de Computación PORTEÑA
+
+## 🗣️ Idiomas
+
+- 🇬🇹 **Español** — Nativo
+- 🇺🇸 **Inglés** — Lectura técnica · en formación (Pre-Intermedio)
+
+## 🍳 Fuera del código
+
+Disfruto **cocinar**, compartir **una buena comida** y mantener mi espacio en orden. Para mí, una cocina limpia y un código limpio tienen mucho en común. 😄
+
+---
+
+<div align="center">
+
+### 🤝 ¿Trabajamos juntos?
+
+Si te interesan mis proyectos o buscas a alguien que combine experiencia, análisis y desarrollo, escríbeme.
+
+[![Email](https://img.shields.io/badge/Escríbeme-hdiaz@realsoft.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hdiaz@realsoft.dev)
+[![LinkedIn](https://img.shields.io/badge/Conectemos-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intelguasoft/)
+[![Website](https://img.shields.io/badge/Visita-realsoft.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://realsoft.dev)
+
+⭐ *Si algún repositorio te resulta útil, ¡una estrella siempre se agradece!*
+
+</div>
