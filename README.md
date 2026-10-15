@@ -106,7 +106,7 @@ Esa base —forjada entre MS-DOS, Linux Mandrake y herramientas ofimáticas de l
 
 <br/>
 
-[![Trofeos](https://github-profile-trophy.vercel.app/?username=intelguasoft&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=intelguasoft&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/intelguasoft/github-profile-trophy)
 
 </div>
 
